@@ -1,5 +1,5 @@
-import time
 import os
+import time
 
 for i in range(1, 9):
 	os.system('rundll32 printui.dll,PrintUIEntry /k /n "HP LaserJet Professional P1102" ')
