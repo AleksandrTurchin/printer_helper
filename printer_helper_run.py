@@ -9,3 +9,4 @@ for i in range(1, 9):
 	current_time = time.strftime("%H:%M:%S (%d.%m)", t)
 	print(f'Печать тестовой страницы №{i} выполнено в {current_time}')
 
+
